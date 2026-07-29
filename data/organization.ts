@@ -60,7 +60,7 @@ export const tracksData: Track[] = [
     {
         id: 'quality',
         name: '품질',
-        color: '#16a34a',
+        color: '#db2777',
         members: [
             {
                 id: 'jung-hee-joong',
@@ -76,7 +76,7 @@ export const tracksData: Track[] = [
     {
         id: 'safety',
         name: '안전',
-        color: '#dc2626',
+        color: '#16a34a',
         members: [
             {
                 id: 'lim-sung-yoon',
